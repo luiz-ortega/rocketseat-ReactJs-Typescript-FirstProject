@@ -25,7 +25,6 @@
   },
   "plugins": ["react", "react-hooks", "@typescript-eslint", "prettier"],
   "rules": {
-    "eslintreact/jsx-indent": "off",
     "react/jsx-props-no-spreading": "off",
     "prettier/prettier": "error",
     "react-hooks/rules-of-hooks": "error",
